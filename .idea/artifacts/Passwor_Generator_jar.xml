@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Passwor-Generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Passwor_Generator_jar</output-path>
+    <root id="archive" name="Passwor-Generator.jar">
+      <element id="module-output" name="Passwor-Generator" />
+    </root>
+  </artifact>
+</component>
